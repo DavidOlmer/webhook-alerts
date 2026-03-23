@@ -1,0 +1,17 @@
+{
+  "name": "@rebel-ai/webhook-alerts",
+  "version": "1.0.0",
+  "description": "Rebel AI Ventures - webhook-alerts",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo 'No tests yet'",
+    "lint": "echo 'No linter configured'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DavidOlmer/webhook-alerts.git"
+  },
+  "author": "Rebel AI Ventures",
+  "license": "MIT"
+}
