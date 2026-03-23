@@ -1,0 +1,11 @@
+{
+  "webhooks": {
+    "slack": null,
+    "discord": null
+  },
+  "defaults": {
+    "timeout": 10000,
+    "retries": 2
+  },
+  "_comment": "Set webhook URLs here or via SLACK_WEBHOOK_URL / DISCORD_WEBHOOK_URL env vars"
+}
